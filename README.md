@@ -1,3 +1,4 @@
+Public website coming soon!
 # 💰 Money Manager — Full-Stack Application
 
 A full-stack money management web application with a **Spring Boot backend** and a **React + Vite frontend**.
