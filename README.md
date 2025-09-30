@@ -1,5 +1,5 @@
 Public website coming soon!
-# 💰 Money Manager — Full-Stack Application
+# 💰 Dollar Tracker— Full-Stack Application
 
 A full-stack money management web application with a **Spring Boot backend** and a **React + Vite frontend**.
 The system provides user authentication, income & expense tracking, dashboards with charts, and export features (Excel, email, Cloudinary for image uploads).
